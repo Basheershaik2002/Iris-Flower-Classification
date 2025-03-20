@@ -49,16 +49,23 @@ Key Steps in the Project:
 1. Clone the repository:
 
 bash
+
 Copy
+
 Edit
+
 git clone <repository-url>
+
 cd iris-classification
 
 2.Install dependencies:
 
 bash
+
 Copy
+
 Edit
+
 pip install -r requirements.txt
 
 3.Run the jupyter notebook
