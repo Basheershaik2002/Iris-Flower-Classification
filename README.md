@@ -44,6 +44,31 @@ Key Steps in the Project:
 
 •Model performance is evaluated using appropriate metrics like accuracy, confusion matrix, and other classification metrics.
 
+
+🚀 Steps to Run the Project
+1. Clone the repository:
+
+bash
+Copy
+Edit
+git clone <repository-url>
+cd iris-classification
+
+2.Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+3.Run the jupyter notebook
+
+• Open Iris_Classification.ipynb
+
+• Execute each cell to preprocess data, train models, and evaluate results.
+
+4.Analyze results and choose the best-performing model.
+
 Expected Outcome:
 
 • A machine learning model that accurately classifies Iris species based on input flower measurements.
