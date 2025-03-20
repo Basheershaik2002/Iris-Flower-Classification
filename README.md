@@ -21,6 +21,7 @@ Species (Target variable: Setosa, Versicolor, Virginica)
 Key Steps in the Project:
 
 1.Data Exploration and Visualization:
+
 • Descriptive statistics of the dataset.
 • Distribution and joint plots to understand the relationships between features.
 • Visualizations by species to identify significant feature variations.
