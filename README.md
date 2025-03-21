@@ -1,21 +1,31 @@
 # Iris-Flower-Classification
 
-🌸 Iris Flower Classification
+### Task Overview:
 
-📌 Task Overview
-This Task develops a machine learning model to classify Iris flowers into three species based on their sepal and petal measurements. The dataset includes features like sepal length, sepal width, petal length, and petal width for three species of Iris:
+This Task develops a machine learning model to classify Iris flowers into three species based on their sepal and petal measurements.
+
+The dataset includes features like sepal length, sepal width, petal length, and petal width for three species of Iris:
+
 1.Setosa
+
 2.Versicolor
+
 3.Virginica
+
 The dataset contains sepal and petal length/width measurements, and the goal is to identify the most significant features for classification while achieving high accuracy.
 
 🔹 Dataset Information
+
 The dataset consists of 150 samples with the following features:
 
 Sepal Length (cm)
+
 Sepal Width (cm)
+
 Petal Length (cm)
+
 Petal Width (cm)
+
 Species (Target variable: Setosa, Versicolor, Virginica)
 
 ### Key Steps in the Task:
