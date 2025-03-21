@@ -58,23 +58,11 @@ Species (Target variable: Setosa, Versicolor, Virginica)
 ### Steps to Run the Task:
 1. Clone the repository:
 
-bash
-
-Copy
-
-Edit
-
 git clone <repository-url>
 
 cd iris-classification
 
 2.Install dependencies:
-
-bash
-
-Copy
-
-Edit
 
 pip install -r requirements.txt
 
